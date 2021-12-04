@@ -1,0 +1,10 @@
+MAPS/AkPnStgb/MUS/MAPS_MUS-liz_et3_AkPnStgb.wav,MAPS/AkPnStgb/MUS/MAPS_MUS-liz_et3_AkPnStgb.mid
+MAPS/SptkBGAm/MUS/MAPS_MUS-mond_1_SptkBGAm.wav,MAPS/SptkBGAm/MUS/MAPS_MUS-mond_1_SptkBGAm.mid
+MAPS/AkPnStgb/MUS/MAPS_MUS-scn15_13_AkPnStgb.wav,MAPS/AkPnStgb/MUS/MAPS_MUS-scn15_13_AkPnStgb.mid
+MAPS/SptkBGCl/MUS/MAPS_MUS-grieg_walzer_SptkBGCl.wav,MAPS/SptkBGCl/MUS/MAPS_MUS-grieg_walzer_SptkBGCl.mid
+MAPS/AkPnBcht/MUS/MAPS_MUS-chp_op31_AkPnBcht.wav,MAPS/AkPnBcht/MUS/MAPS_MUS-chp_op31_AkPnBcht.mid
+MAPS/SptkBGCl/MUS/MAPS_MUS-waldstein_3_SptkBGCl.wav,MAPS/SptkBGCl/MUS/MAPS_MUS-waldstein_3_SptkBGCl.mid
+MAPS/AkPnCGdD/MUS/MAPS_MUS-mendel_op53_5_AkPnCGdD.wav,MAPS/AkPnCGdD/MUS/MAPS_MUS-mendel_op53_5_AkPnCGdD.mid
+MAPS/SptkBGCl/MUS/MAPS_MUS-mond_2_SptkBGCl.wav,MAPS/SptkBGCl/MUS/MAPS_MUS-mond_2_SptkBGCl.mid
+MAPS/SptkBGAm/MUS/MAPS_MUS-chpn_op10_e05_SptkBGAm.wav,MAPS/SptkBGAm/MUS/MAPS_MUS-chpn_op10_e05_SptkBGAm.mid
+MAPS/AkPnCGdD/MUS/MAPS_MUS-chp_op18_AkPnCGdD.wav,MAPS/AkPnCGdD/MUS/MAPS_MUS-chp_op18_AkPnCGdD.mid
